@@ -1,3 +1,4 @@
 ﻿T~control ( )
 T~xpostprocess ( )
-T~amigo ( turma conhecido parceiro colega amigo )
+T~saudacao ( dia bom ola )
+T~remedio ( droga comprimido remedio )

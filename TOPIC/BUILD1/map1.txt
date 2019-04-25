@@ -9,7 +9,7 @@
 # Complexity of rule full_rule_tag_with_possible_label rule_kind complexity_metric (complexity metric for rule) 
 # bot: name_of_macro_it_happens_in botid (possible bot macro) 
 
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/SEXTA/simplecontrol.top
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/SEXTA/simplecontrol.top
     macro: 6  ^sexta
           line: 8 0  # $cs_token = 1048576 | 512 | 13
           line: 9 35  # $cs_token += 67108864 | 65536 
@@ -176,33 +176,23 @@ file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/SEXTA/simpl
           line: 156 261  # } 004 
           loopend 158 269  
           Complexity of rule ~xpostprocess.0.0- t: 3
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/SEXTA/amigos.top
-    topic: 1  ~amigo
-        rule: 5  ~amigo.0.0- t: 
-          line: 5 0  # Olá Amigo!!! 
-          Complexity of rule ~amigo.0.0- t: 1
-        rule: 7  ~amigo.1.0-BRIGAR s: 
-          line: 7 0  # [ brigar nunca é bom. ] [ nã
-          line: 8 41  # brigas. ] 
-          Complexity of rule ~amigo.1.0-BRIGAR s: 1
-        rule: 10  ~amigo.2.0-BEIJAR s: 
-          line: 10 0  # [ Opa, ai sim em ] 
-          Complexity of rule ~amigo.2.0-BEIJAR s: 1
-        rule: 12  ~amigo.3.0 t: 
-          line: 12 0  # Eu gosto muito de conversar co
-          Complexity of rule ~amigo.3.0- t: 1
-        rule: 14  ~amigo.4.0 ?: 
-          line: 14 0  # quem nunca?! 
-          Complexity of rule ~amigo.4.0- ?: 1
-        rule: 16  ~amigo.5.0 u: 
-          line: 16 0  # legal! Você tem muitos amigos
-          Complexity of rule ~amigo.5.0- u: 1
-        rule: 17  ~amigo.5.1 a: 
-          line: 17 0  # quantos são? 
-          Complexity of rule ~amigo.5.1- a: 1
-        rule: 18  ~amigo.5.2 b: 
-          line: 18 0  # é muito bom ter amigos! 
-          Complexity of rule ~amigo.5.2- b: 1
-        rule: 19  ~amigo.5.3 a: 
-          line: 19 0  # o mais importante é ter bons 
-          Complexity of rule ~amigo.5.3- a: 1
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/SEXTA/saudacao.top
+    topic: 1  ~saudacao
+        rule: 3  ~saudacao.0.0- t: 
+          line: 3 0  # Bom dia !! Tudo bem ? 
+          Complexity of rule ~saudacao.0.0- t: 1
+        rule: 4  ~saudacao.0.1 a: 
+          line: 4 0  # [ Que bom, em que posso ajudar
+          Complexity of rule ~saudacao.0.1- a: 1
+        rule: 5  ~saudacao.0.2 a: 
+          Complexity of rule ~saudacao.0.2- a: 1
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/SEXTA/remedio.top
+    topic: 1  ~remedio
+        rule: 3  ~remedio.0.0-REMEDIO u: 
+          line: 3 0  # [ Qual ? ] 
+          Complexity of rule ~remedio.0.0-REMEDIO u: 1
+        rule: 4  ~remedio.0.1 a: 
+          line: 4 0  # [ Custa 19,90 a cartela ] 
+          Complexity of rule ~remedio.0.1- a: 1
+        rule: 5  ~remedio.0.2 a: 
+          Complexity of rule ~remedio.0.2- a: 1

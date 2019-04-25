@@ -9,52 +9,9 @@
 # Complexity of rule full_rule_tag_with_possible_label rule_kind complexity_metric (complexity metric for rule) 
 # bot: name_of_macro_it_happens_in botid (possible bot macro) 
 
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/internalconcepts.top
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/internalconcepts.top
     concept: 1  ~internal_concepts
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/ENGLISH/opposite.tbl
-    concept: 2  ~numberoperator
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/ENGLISH/affect.top
-    concept: 1  ~badness
-    concept: 119  ~weakbadness
-    concept: 132  ~strongbadness
-    concept: 179  ~goodness
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/ENGLISH/adverbhierarchy.top
-    concept: 0  ~modifyabletimenoun
-    concept: 1  ~timeadvmodifier
-    concept: 3  ~modifyabledistancenoun
-    concept: 4  ~distancemodifier
-    concept: 7  ~adverblist
-    concept: 8  ~always
-    concept: 9  ~causal_adverbs
-    concept: 10  ~certainty_adverbs
-    concept: 11  ~commenting_adverbs
-    concept: 12  ~comparative_degree_adverbs
-    concept: 13  ~comparative_manner_adverbs
-    concept: 14  ~comparison_adverbs
-    concept: 15  ~condition_adverbs
-    concept: 16  ~conjunctive_adverbs
-    concept: 17  ~degree_adverbs
-    concept: 18  ~duration_adverbs
-    concept: 19  ~explanatory_adverbs
-    concept: 21  ~extent_adverbs
-    concept: 24  ~frequency_adverbs
-    concept: 26  ~how_adverbs
-    concept: 27  ~inversion_adverbs
-    concept: 28  ~speed_adverbs
-    concept: 29  ~never
-    concept: 30  ~often
-    concept: 32  ~place_adverbs
-    concept: 34  ~purpose_adverbs
-    concept: 35  ~question_adverbs
-    concept: 36  ~rarely
-    concept: 37  ~result_adverbs
-    concept: 38  ~sequence_adverbs
-    concept: 39  ~supposition_adverbs
-    concept: 40  ~time_adverbs
-    concept: 41  ~viewpoint_adverbs
-    concept: 42  ~when_adverbs
-    concept: 43  ~negative_adverb_starter
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/ENGLISH/adjectivehierarchy.top
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/ENGLISH/adjectivehierarchy.top
     concept: 0  ~timeadjmodifier
     concept: 1  ~pretimeadjmodifier
     concept: 4  ~color_adjectives
@@ -141,7 +98,48 @@ file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/EN
     concept: 147  ~transition_adjectives
     concept: 148  ~weather_adjectives
     concept: 149  ~when_adjectives
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/ENGLISH/concepts.top
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/ENGLISH/adverbhierarchy.top
+    concept: 0  ~modifyabletimenoun
+    concept: 1  ~timeadvmodifier
+    concept: 3  ~modifyabledistancenoun
+    concept: 4  ~distancemodifier
+    concept: 7  ~adverblist
+    concept: 8  ~always
+    concept: 9  ~causal_adverbs
+    concept: 10  ~certainty_adverbs
+    concept: 11  ~commenting_adverbs
+    concept: 12  ~comparative_degree_adverbs
+    concept: 13  ~comparative_manner_adverbs
+    concept: 14  ~comparison_adverbs
+    concept: 15  ~condition_adverbs
+    concept: 16  ~conjunctive_adverbs
+    concept: 17  ~degree_adverbs
+    concept: 18  ~duration_adverbs
+    concept: 19  ~explanatory_adverbs
+    concept: 21  ~extent_adverbs
+    concept: 24  ~frequency_adverbs
+    concept: 26  ~how_adverbs
+    concept: 27  ~inversion_adverbs
+    concept: 28  ~speed_adverbs
+    concept: 29  ~never
+    concept: 30  ~often
+    concept: 32  ~place_adverbs
+    concept: 34  ~purpose_adverbs
+    concept: 35  ~question_adverbs
+    concept: 36  ~rarely
+    concept: 37  ~result_adverbs
+    concept: 38  ~sequence_adverbs
+    concept: 39  ~supposition_adverbs
+    concept: 40  ~time_adverbs
+    concept: 41  ~viewpoint_adverbs
+    concept: 42  ~when_adverbs
+    concept: 43  ~negative_adverb_starter
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/ENGLISH/affect.top
+    concept: 1  ~badness
+    concept: 119  ~weakbadness
+    concept: 132  ~strongbadness
+    concept: 179  ~goodness
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/ENGLISH/concepts.top
     concept: 1  ~cartoon_character
     concept: 2  ~architect
     concept: 3  ~athlete
@@ -1207,7 +1205,27 @@ file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/EN
     concept: 2070  ~yellow_other
     concept: 2071  ~yesanswer
     concept: 2072  ~noanswer
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/ENGLISH/verbhierarchy.top
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/ENGLISH/opposite.tbl
+    concept: 2  ~numberoperator
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/ENGLISH/prepositionhierarchy.top
+    concept: 1  ~directionplacepreposition
+    concept: 3  ~directionon
+    concept: 4  ~directionunder
+    concept: 5  ~directionover
+    concept: 6  ~directioninside
+    concept: 7  ~directionoutside
+    concept: 8  ~directionfront
+    concept: 9  ~directionbeside
+    concept: 10  ~directionrear
+    concept: 11  ~directioncompass
+    concept: 14  ~extensions
+    concept: 17  ~directionpreposition
+    concept: 19  ~placepreposition
+    concept: 21  ~spacepreposition
+    concept: 23  ~relationpreposition
+    concept: 38  ~timepreposition
+    concept: 39  ~prepositionlist
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/ENGLISH/verbhierarchy.top
     concept: 0  ~determinerlist
     concept: 1  ~qwords
     concept: 4  ~verbof_exceptions
@@ -1573,65 +1591,18 @@ file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/EN
     concept: 491  ~comment
     concept: 492  ~ask
     concept: 493  ~post
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/ONTOLOGY/ENGLISH/prepositionhierarchy.top
-    concept: 1  ~directionplacepreposition
-    concept: 3  ~directionon
-    concept: 4  ~directionunder
-    concept: 5  ~directionover
-    concept: 6  ~directioninside
-    concept: 7  ~directionoutside
-    concept: 8  ~directionfront
-    concept: 9  ~directionbeside
-    concept: 10  ~directionrear
-    concept: 11  ~directioncompass
-    concept: 14  ~extensions
-    concept: 17  ~directionpreposition
-    concept: 19  ~placepreposition
-    concept: 21  ~spacepreposition
-    concept: 23  ~relationpreposition
-    concept: 38  ~timepreposition
-    concept: 39  ~prepositionlist
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/movies_tv.tbl
-          if 7 4  
-          if 10 81  
-          ifend 13 163  
-          ifend 14 169  
-          if 25142 4  
-          ifend 25146 119  
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/animals.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/ENGLISH/PARSER/parsedata.top
+    concept: 4  ~misc_parsedata
+    concept: 9  ~causal_to_infinitive_verbs
+    concept: 39  ~verbs_of_perception
+    concept: 41  ~completeness_adjectives
+    concept: 49  ~quotableverbs
+    concept: 59  ~restrictive_adverbs
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/ONTOLOGY/ENGLISH/PARSER/timewords.top
+    concept: 2  ~timewords
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/animals.tbl
     concept: 100  ~animal_homes
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/malepeople.tbl
-          if 43 33  
-          ifend 43 99  
-          if 44 104  
-          ifend 44 160  
-          if 505 33  
-          ifend 505 87  
-          if 506 92  
-          ifend 506 148  
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/literature.tbl
-          if 13 105  
-          ifend 17 221  
-          if 18 226  
-          ifend 18 279  
-          if 19 284  
-          ifend 19 337  
-          if 1043 166  
-          ifend 1043 219  
-          if 1044 224  
-          ifend 1044 277  
-          if 1243 4  
-          ifend 1249 180  
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/lifespan.tbl
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/music.tbl
-    concept: 1  ~song
-    concept: 3  ~celebrity
-          if 286 33  
-          ifend 286 87  
-          if 287 92  
-          ifend 287 144  
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/speed.tbl
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/basicbooks.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/basicbooks.tbl
           if 4 33  
           ifend 4 87  
           if 5 92  
@@ -1648,10 +1619,65 @@ file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/b
           ifend 54 279  
           if 55 284  
           ifend 55 337  
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/material.tbl
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/geography.tbl
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/color.tbl
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/peoplegroups.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/basicgeography.tbl
+    concept: 166  ~countryadjective
+    concept: 442  ~capital
+    concept: 714  ~state_region
+          if 719 104  
+          ifend 723 322  
+    concept: 1253  ~currency
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/basicmovies_tv.tbl
+          if 330 4  
+          ifend 334 119  
+          if 356 4  
+          ifend 360 121  
+          if 366 4  
+          ifend 370 119  
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/color.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/container.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/geography.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/lifespan.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/literature.tbl
+          if 13 105  
+          ifend 17 221  
+          if 18 226  
+          ifend 18 279  
+          if 19 284  
+          ifend 19 337  
+          if 1043 166  
+          ifend 1043 219  
+          if 1044 224  
+          ifend 1044 277  
+          if 1243 4  
+          ifend 1249 180  
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/malepeople.tbl
+          if 43 33  
+          ifend 43 99  
+          if 44 104  
+          ifend 44 160  
+          if 505 33  
+          ifend 505 87  
+          if 506 92  
+          ifend 506 148  
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/material.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/movies_tv.tbl
+          if 7 4  
+          if 10 81  
+          ifend 13 163  
+          ifend 14 169  
+          if 25142 4  
+          ifend 25146 119  
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/music.tbl
+    concept: 1  ~song
+    concept: 3  ~celebrity
+          if 286 33  
+          ifend 286 87  
+          if 287 92  
+          ifend 287 144  
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/musicbasic.tbl
+          if 6 125  
+          ifend 6 177  
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/peoplegroups.tbl
     concept: 2  ~nfc-west_football_team
     concept: 3  ~nfc-east_football_team
     concept: 4  ~afc-west_football_team
@@ -1661,11 +1687,8 @@ file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/p
     concept: 8  ~afc-south_football_team
     concept: 9  ~afc-north_football_team
     concept: 10  ~football_teams
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/musicbasic.tbl
-          if 6 125  
-          ifend 6 177  
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/container.tbl
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/things.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/speed.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/things.tbl
     concept: 1  ~electronics_store
     concept: 2  ~grocery
     concept: 32  ~hot_things
@@ -1688,14 +1711,7 @@ file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/t
     concept: 405  ~use_intentionverbs
     concept: 406  ~blowing
     concept: 407  ~interrogate
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/videogames.tbl
-          if 3 4  
-          if 7 96  
-          ifend 7 148  
-          ifend 8 154  
-          if 9 159  
-          ifend 13 286  
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/tools.tbl
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/tools.tbl
           if 19 156  
           ifend 19 210  
           if 20 215  
@@ -1708,17 +1724,10 @@ file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/t
           ifend 23 446  
           if 24 451  
           ifend 24 502  
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/basicmovies_tv.tbl
-          if 330 4  
-          ifend 334 119  
-          if 356 4  
-          ifend 360 121  
-          if 366 4  
-          ifend 370 119  
-file: 0  /home/daniel/Dropbox/Laboratório/ChatScript-master/RAWDATA/WORLDDATA/basicgeography.tbl
-    concept: 166  ~countryadjective
-    concept: 442  ~capital
-    concept: 714  ~state_region
-          if 719 104  
-          ifend 723 322  
-    concept: 1253  ~currency
+file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/WORLDDATA/videogames.tbl
+          if 3 4  
+          if 7 96  
+          ifend 7 148  
+          ifend 8 154  
+          if 9 159  
+          ifend 13 286  

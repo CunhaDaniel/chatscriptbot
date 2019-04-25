@@ -1,2 +1,3 @@
 RAWDATA/SEXTA/simplecontrol.top
-RAWDATA/SEXTA/amigos.top
+RAWDATA/SEXTA/saudacao.top
+RAWDATA/SEXTA/remedio.top

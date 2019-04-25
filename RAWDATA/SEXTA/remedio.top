@@ -1,0 +1,5 @@
+topic: ~REMEDIO keep repeat [remedio comprimido droga]
+
+u: REMEDIO(Quero um comprimido) [ Qual ?] 
+    a: (dipirona) [Custa 19,90 a cartela]
+    a: (neosoro) [ Custa 5000,00 o frasco ]
