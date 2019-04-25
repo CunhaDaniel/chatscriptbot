@@ -1,0 +1,3 @@
+﻿T~control ( )
+T~xpostprocess ( )
+T~amigo ( turma conhecido parceiro colega amigo )

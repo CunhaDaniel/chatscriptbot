@@ -1,0 +1,19 @@
+topic: ~amigo keep repeat [amigo colega parceiro conhecido turma]
+
+# keep repeat []
+
+t: Olá Amigo!!!
+
+s: BRIGAR ( briguei com meu melhor amigo ) [brigar nunca é bom.] [não gosto de
+brigas.]
+
+s: BEIJAR (ja beijei minha amiga) [Opa, ai sim em]
+
+t: ( ) Eu gosto muito de conversar com os meus amigos.
+
+?: ( voce * brigou * amigo ) quem nunca?!
+
+u: ( fui * festa *~2 amigos ) legal! Você tem muitos amigos?
+    a: ( SIM ) quantos são?
+    b: ( ~numeral ) é muito bom ter amigos!
+    a: ( não ) o mais importante é ter bons amigos.
