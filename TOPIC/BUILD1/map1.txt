@@ -185,14 +185,39 @@ file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/SEXTA/saudacao.top
           line: 4 0  # [ Que bom, em que posso ajudar
           Complexity of rule ~saudacao.0.1- a: 1
         rule: 5  ~saudacao.0.2 a: 
+          line: 5 0  # [ Que pena, como posso melhora
           Complexity of rule ~saudacao.0.2- a: 1
+        rule: 6  ~saudacao.0.3 a: 
+          line: 6 0  # [ Que bom, em que posso ajudar
+          Complexity of rule ~saudacao.0.3- a: 1
+        rule: 8  ~saudacao.1.0 t: 
+          line: 8 0  # Poderia repetir o que disse 
+          Complexity of rule ~saudacao.1.0- t: 1
 file: 0  C:/Users/danie/projects/chatscriptbot/RAWDATA/SEXTA/remedio.top
     topic: 1  ~remedio
-        rule: 3  ~remedio.0.0-REMEDIO u: 
-          line: 3 0  # [ Qual ? ] 
+        rule: 4  ~remedio.0.0-REMEDIO u: 
+          line: 4 0  # [ Qual ? ] 
           Complexity of rule ~remedio.0.0-REMEDIO u: 1
-        rule: 4  ~remedio.0.1 a: 
-          line: 4 0  # [ Custa 19,90 a cartela ] 
+        rule: 5  ~remedio.0.1 a: 
+          line: 5 0  # [ Custa 19,90 a cartela ] 
           Complexity of rule ~remedio.0.1- a: 1
-        rule: 5  ~remedio.0.2 a: 
+        rule: 6  ~remedio.0.2 a: 
+          line: 6 0  # [ Custa 5000,00 o frasco ] 
           Complexity of rule ~remedio.0.2- a: 1
+        rule: 8  ~remedio.1.0-REMEDIO u: 
+          line: 8 0  # [ Qual ? ] 
+          Complexity of rule ~remedio.1.0-REMEDIO u: 1
+        rule: 9  ~remedio.1.1 a: 
+          line: 9 0  # [ Custa 19,90 a cartela ] 
+          Complexity of rule ~remedio.1.1- a: 1
+        rule: 10  ~remedio.1.2 a: 
+          line: 10 0  # [ Custa 5000,00 o frasco ] 
+          Complexity of rule ~remedio.1.2- a: 1
+        rule: 12  ~remedio.2.0-REMEDIO u: 
+          line: 12 0  # [ Qual ? ] 
+          Complexity of rule ~remedio.2.0-REMEDIO u: 1
+        rule: 13  ~remedio.2.1 a: 
+          line: 13 0  # [ Custa 19,90 a cartela ] 
+          Complexity of rule ~remedio.2.1- a: 1
+        rule: 14  ~remedio.2.2 a: 
+          Complexity of rule ~remedio.2.2- a: 1

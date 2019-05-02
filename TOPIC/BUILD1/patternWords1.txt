@@ -12,10 +12,12 @@ bom
 dia
 sim
 nao
+tudo
 remedio
 comprimido
 droga
 Quero
-um
 dipirona
 neosoro
+quero
+um

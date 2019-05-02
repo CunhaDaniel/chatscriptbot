@@ -1,5 +1,15 @@
 topic: ~REMEDIO keep repeat [remedio comprimido droga]
 
-u: REMEDIO(Quero um comprimido) [ Qual ?] 
+
+u: REMEDIO(Quero * comprimido) [ Qual ?] 
     a: (dipirona) [Custa 19,90 a cartela]
-    a: (neosoro) [ Custa 5000,00 o frasco ]
+    a: (neosoro) [Custa 5000,00 o frasco]
+
+u: REMEDIO(quero um remedio)[ Qual ? ]
+    a: (dipirona) [Custa 19,90 a cartela]
+    a: (neosoro) [Custa 5000,00 o frasco]
+
+u: REMEDIO (quero)[Qual ?]
+    a: (dipirona) [Custa 19,90 a cartela]
+    a: (neosoro) [Custa 5000,00 o frasco]
+

@@ -1,5 +1,8 @@
-topic: ~SAUDACAO keep repeat [ ola bom dia]
+topic: ~SAUDACAO keep repeat [ ola bom dia ]
 
-t: (Bom dia !!) Tudo bem ?
+t: Bom dia !! Tudo bem ?
     a: (sim) [Que bom, em que posso ajudar ? ]
     a: (nao) [Que pena, como posso melhorar seu dia ?]
+    a: (tudo) [Que bom, em que posso ajudar ?]
+
+t: () Poderia repetir o que disse ?
